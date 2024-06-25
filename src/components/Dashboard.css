@@ -1,0 +1,58 @@
+.dashboard {
+    padding: 20px;
+    background-color: #000;
+  }
+  
+  .boxes {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 20px;
+  }
+  
+  .box {
+    border: 1px solid black;
+    padding: 20px;
+    width: 400px;
+    text-align: center;
+    cursor: pointer;
+    background-color: aliceblue;
+    
+  }
+  
+  .count {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fff;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
+
+ body{
+    background-color:black;
+ }
+
+ .dashboard-heading {
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .dashboard-name-header{
+    color:white;
+
+  }
+  
